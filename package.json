@@ -1,0 +1,13 @@
+{
+  "name": "demo-libraryx",
+  "version": "1.0.0",
+  "description": "LibraryX — fictional payments SDK + docs (fixyourdocs.io demo asset).",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 3000",
+    "docs:build": "vitepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
