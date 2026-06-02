@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as t,a0 as e}from"./chunks/framework.Dx25mwie.js";const c=JSON.parse('{"title":"Payments","description":"","frontmatter":{},"headers":[],"relativePath":"payments.md","filePath":"payments.md"}'),n={name:"payments.md"};function h(l,s,p,r,k,o){return i(),t("div",null,[...s[0]||(s[0]=[e("",6)])])}const g=a(n,[["render",h]]);export{c as __pageData,g as default};
